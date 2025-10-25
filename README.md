@@ -2,8 +2,6 @@
 
 ![Rafa Mirza Firdaus](/R4mFaaaw/img/github-header-banner.png)
 
-![Rafa Mirza Firdaus](/R4mFaaaw/img/github-header-banner.png)
-
 <!--
 **R4mFaaaw/R4mFaaaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
