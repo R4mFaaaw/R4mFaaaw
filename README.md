@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello World! I'm Rafa Mirza Firdaus😋
+
+![Rafa Mirza Firdaus](/R4mFaaaw/img/github-header-banner.png)
+
+![Rafa Mirza Firdaus](/R4mFaaaw/img/github-header-banner.png)
 
 <!--
 **R4mFaaaw/R4mFaaaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on
+- 🌱 I’m currently learning AI Learning
+- My [**Instagram**](https://www.instagram.com/afaawww_/?__pwa=1)
+  ![Musang](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnFxYmZidzQ2cTNjajdvcnBoMWZ1N2p6YTQ2NTJvenNwenhhZDN4MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tHIRLHtNwxpjIFqPdV/giphy.gif)
