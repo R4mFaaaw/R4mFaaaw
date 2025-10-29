@@ -1,3 +1,7 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
 <h1 align="left">Hello World!</h1>
 
 ###
@@ -85,33 +89,14 @@
 
 ###
 
-###
-
-###
-
 <div align="center">
   <img src="https://count.getloli.com/@:R4mFaaaw?theme=booru-r6gdrawfriends&padding=7&scale=1&align=top&pixelated=1&darkmode=1"  />
 </div>
 
 ###
 
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=R4mFaaaw.R4mFaaaw&"  />
-</div>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=100&section=header&reversal=false&text=1605&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&desc=my%20Birthday&descSize=20&descAlign=50&descAlignY=85&color=undefined"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
