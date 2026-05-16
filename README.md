@@ -59,13 +59,13 @@ A passionate developer from Indonesia deeply invested in building full-stack app
 ### 🤝 Connect with Me
 
 <p>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="www.linkedin.com/in/rafa-mirza-firdaus-661a10365" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:rafamirzafirdaus@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+  <a href="https://instagram.com/_afaawww" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a>
 </p>
